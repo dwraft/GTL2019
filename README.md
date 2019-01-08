@@ -1,12 +1,12 @@
 # Welcome to Math Class
 
 # 1 Class
-[Lesson1](https://dwraft.github.io/1Class/Factoring_1-slides.pdf)
+[Lesson1](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Factoring_1-slides.pdf)
 Credit: Luke Bordonaro
 # 2 Class
 
 
-[Lesson1](https://dwraft.github.io/2Class/Lesson1.html)
+[Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/2Class/Lesson1.html)
 
 # 3 Class
 
