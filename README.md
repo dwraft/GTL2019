@@ -8,6 +8,8 @@ Credit: Luke Bordonaro
 
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/2Class/Lesson1.html)
 
+[Lesson2](https://dwraft.github.io/GTL2019/finishedLessons/2Class/Lesson2.html)
+
 # 3 Class
 
 
