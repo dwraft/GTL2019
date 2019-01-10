@@ -10,6 +10,8 @@ Credit: Luke Bordonaro
 
 [Lesson2](https://dwraft.github.io/GTL2019/finishedLessons/2Class/Lesson2.html)
 
+[Lesson3](https://dwraft.github.io/GTL2019/finishedLessons/2Class/Lesson3.html)
+
 # 3AF Class
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/3Class/Lesson1.html)
 
