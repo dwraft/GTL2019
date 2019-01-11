@@ -2,6 +2,7 @@
 
 # 1 Class
 [Lesson1](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Factoring_1-slides.pdf)
+
 [Lesson2](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson2.pdf)
 Credit: Luke Bordonaro
 # 2 Class
