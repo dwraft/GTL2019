@@ -17,6 +17,9 @@ Credit: Luke Bordonaro
 # 3AF Class
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/3Class/Lesson1.html)
 
+# 3EF and 3AF Class
+[Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/3Class2/Lesson1.html)
+
 
 # 4 Class
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/4Class/Lesson1.html)
