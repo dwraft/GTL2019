@@ -27,3 +27,8 @@ Credit: Luke Bordonaro
 # 5 Class
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/5Class/Lesson1.html)
 
+[Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/5Class/Lesson2.html)
+
+# Special Lessons
+
+[Images](https://github.com/dwraft/GTL2019/blob/master/MathOfImages.ipynb)
