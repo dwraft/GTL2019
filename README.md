@@ -38,8 +38,3 @@ Credit to Luke Bordonaro for all slides
 # Special Lessons
 
 [Images](https://github.com/dwraft/GTL2019/blob/master/MathOfImages.ipynb)
-
-4zx^2  - 32zx + 64z
-
-4z (x^2 - 8x + 16)
-4z (x-4)^2
