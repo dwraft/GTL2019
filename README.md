@@ -4,7 +4,11 @@
 [Lesson1](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Factoring_1-slides.pdf)
 
 [Lesson2](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson2.pdf)
-Credit: Luke Bordonaro
+
+
+[Lesson2](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson2.pdf)
+
+Credit to Luke Bordonaro for all slides
 # 2 Class
 
 
@@ -17,7 +21,9 @@ Credit: Luke Bordonaro
 # 3AF Class
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/3Class/Lesson1.html)
 
-# 3EF and 3AF Class
+[Lesson2](https://dwraft.github.io/GTL2019/finishedLessons/3Class/Lesson2.html
+
+# 3EF and 3AI Class
 [Lesson1](https://dwraft.github.io/GTL2019/finishedLessons/3Class2/Lesson1.html)
 
 
@@ -32,3 +38,8 @@ Credit: Luke Bordonaro
 # Special Lessons
 
 [Images](https://github.com/dwraft/GTL2019/blob/master/MathOfImages.ipynb)
+
+4zx^2  - 32zx + 64z
+
+4z (x^2 - 8x + 16)
+4z (x-4)^2
