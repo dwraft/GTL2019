@@ -6,7 +6,7 @@
 [Lesson2](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson2.pdf)
 
 
-[Lesson3(https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson3.pdf)
+[Lesson3](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson3.pdf)
 
 Credit to Luke Bordonaro for all slides
 # 2 Class
