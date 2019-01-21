@@ -38,3 +38,4 @@ Credit to Luke Bordonaro for all slides
 # Special Lessons
 
 [Images](https://github.com/dwraft/GTL2019/blob/master/MathOfImages.ipynb)
+[Netflix](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/Special/Netflix.html)
