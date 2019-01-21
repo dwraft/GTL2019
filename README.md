@@ -7,7 +7,9 @@
 
 [Lesson3](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/1Class/Lesson3.pdf)
 
-Credit to Luke Bordonaro for all slides
+[Lesson4](https://mutatedgamer.github.io/GTL_Lesson_Plans/Factoring_4%20slides.pdf)
+
+Credit to Luke Bordonaro for all slides for the 1 Class
 # 2 Class
 
 
