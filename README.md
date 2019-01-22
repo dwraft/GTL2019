@@ -40,4 +40,5 @@ Credit to Luke Bordonaro for all slides for the 1 Class
 # Special Lessons
 
 [Images](https://github.com/dwraft/GTL2019/blob/master/MathOfImages.ipynb)
-[Netflix](https://github.com/dwraft/GTL2019/blob/master/finishedLessons/Special/Netflix.html)
+
+[Netflix](https://dwraft.github.io/GTL2019/finishedLessons/Special/Netflix.html)
